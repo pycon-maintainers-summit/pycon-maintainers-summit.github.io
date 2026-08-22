@@ -2,7 +2,7 @@
 title: "Welcome to the Maintainer Summit website"
 date: 2026-08-20
 authors: ["mariatta-wijaya"]
-summary: "Announcing the PyCon US Maintainer Summit website. Subscribe to our RSS feed to follow along."
+summary: "Announcing the PyCon US Maintainer Summit website."
 tags: ["announcement", "blog"]
 image: "/og/welcome.png"
 ---
