@@ -1,102 +1,67 @@
 ---
-title: "Welcome to the new Maintainer Summit website"
+title: "Welcome to the Maintainer Summit website"
 date: 2026-08-20
 authors: ["mariatta-wijaya"]
-summary: "Announcing the PyCon US Maintainer Summit website: why we moved from a single page on https://us.pycon.org to a dedicated, openly-maintained website. Subscribe to our RSS feed to follow along."
+summary: "Announcing the PyCon US Maintainer Summit website. Subscribe to our RSS feed to follow along."
 tags: ["announcement", "blog"]
 image: "/og/welcome.png"
 ---
 
-Welcome to the new home of the **PyCon US Maintainer Summit**.
+Welcome to the **PyCon US Maintainer Summit**!
 
-Everything about the summit now lives together in one place: details on the
-event, an archive of past years, guides for attendees and speakers, and this
-news section.
+Everything about the Summit now has a home here: what to look forward to at next year’s event,
+an archive of past Summits, guides for attendees and speakers, and this news section.
 
-Here's why we built it, and what you can expect to find here.
+Here’s why we built it, and what you can expect to find.
 
 ## Where we started
 
-The Maintainer Summit began as a hatchery program for PyCon US 2019. Since
+The Maintainer Summit began as the Hatchery Program at PyCon US 2019. Since
 then, our "site" has been a single page under the PyCon US website.
 
 That made sense. The summit happens at PyCon US, and the conference site is
-where people already go to register and find out what's happening. We're
-grateful that page existed. It's how a lot of people found us.
+where people already go to register and learn what's happening during the week.
+We are grateful that page exists. It's how a lot of people first finds us.
 
-But over the years, as our community grew and our organizing team grew and
-changed hands, the same thing kept coming up: a conference website is built to
-do one job really well, and it's not quite the job the summit needs the rest of
-the year.
+As our community grew and the organizing team evolved, we kept coming back to
+the same conversation: a page on the us.pycon.org does one job really well, but
+the Summit needs a space that could support our work on the event throughout the year.
 
-### A conference site is built around one event a year
+A lot of what the Summit is about doesn't fit on that single page. Guides for attendees,
+resources for speakers, and especially our **organizing docs** were never going to belong
+there. Those documents did exist, but they lived as private notes on personal Google Drives,
+in chat threads, and emails. And because of that every year started a little from scratch.
 
-PyCon US runs once a year, and its website is organized around that. This
-year's venue, this year's schedule, this year's registration. That's exactly
-what a conference site *should* be. The side effect is that the summit was tied
-to the conference's timeline: when we wanted to publish something, we were often
-waiting on the broader schedule to come together first.
-
-It's also, understandably, focused on attendee and event information. A lot of
-what the summit is about doesn't fit there. Guides for attendees, resources for
-speakers, and especially our **organizing docs**, the how-we-actually-run-this
-material, were never going to belong on a single event page. Those documents did
-exist, but they lived as private notes scattered across personal drives, chat
-threads, and emails.
-
-### There was nowhere to publish news or blogs
-
-There was also simply no place to publish ongoing news or blog posts. No feed,
-no spot for announcements between events, nowhere for a recap or a post like
-this one to live. If we wanted to say something in the months between summits,
-there was no channel for it.
-
-### And it goes quiet after the event
-
-The part that finally tipped it: once a year wraps, the conference page for that
-year becomes essentially static and read-only. That's reasonable for an archived
-event, but it meant the summit had no living, continuous record. Every year
-started a little from scratch, and the threads between years were hard to
-follow.
+And once a year wraps, the conference page for that year becomes essentially read-only.
+That's reasonable for an archived event, but it meant the Summit had no place to publish recaps,
+or share related news between events.
 
 ## What a home of our own gives us
 
-Running our own site fixes all of that in one move. It's continuous, so docs and
-recaps live on between summits instead of resetting each year. It's ours to
-update, so we can publish on our own schedule rather than waiting on the
-conference calendar. It has room for everything: attendee docs, speaker docs,
-organizing docs, an archive, and a blog. And it's openly maintained, so people
-can read how we work, learn from it, and contribute improvements.
+Having our own website addresses all of these challenges in one move.
+There is room for everything. It is maintained by us, in the open, so others can see
+how we work, learn from it, and contribute.
 
-That last point matters most. The Maintainer Summit is a gathering of open
-source people. It feels right to run it the open source way: in the open,
-documented, and contributable.
+That last part matters most. The Maintainer Summit is a gathering of people passionate about
+open source. It feels right that the Summit itself works the open source way too.
 
-None of this is a knock on PyCon US. We're still part of it, and the event page
-still does its job as the place for a particular year's logistics. We just
-needed something that keeps living the other fifty-one weeks of the year. This
-is that.
+None of this changes our relationship with PyCon US. We’re still very much part of it,
+and the Maintainer Summit page remains the place to find info about each year’s logistics.
+We simply needed a space that could keep the Summit going for the other fifty-one weeks of the year.
+This is that space.
 
 ## What to expect here
 
-This is where we'll keep the summit's living documentation and share what's
-happening with the community around it:
-
-- **Announcements**: calls for proposals, registration, schedules, and other
-  summit news as the year unfolds.
-- **Recaps**: write-ups and highlights from each summit, with links to slides
-  and recordings as speakers share them.
-- **Blog posts**: reflections, lessons, and ideas from maintainers, in between
-  summits.
-- **Open docs**: [attendee guides](/docs), speaker resources, and even our
-  organizing docs, maintained in the open so others can learn from them and
-  contribute.
+- **Announcements**: calls for proposals, other info related to an upcoming Summit.
+- **Event content and resources**: highlights from each Summit, with links to speakers' slides
+  and related resources, blog posts with reflections and ideas from maintainers and for maintainers.
+- **Organizer documentation**: [attendee guides](/docs), speaker resources, and even our
+  organizing docs.
 
 ## Contribute
 
-This whole site is open source, and we'd love your help keeping it useful. If
-you spot a typo, want to improve a guide, or have an idea for the summit, take a
+The site is open source, and we'd love your help keeping it useful. If
+you spot a typo, want to improve a guide, or have an idea for the Summit, take a
 look at our
 [GitHub repository](https://github.com/pycon-maintainer-summit/pycon-maintainer-summit.github.io).
-Feel free to browse it, fork it, open an issue, or send a pull request.
-Contributions of every size are welcome.
+Feel free to open an issue or send a pull request. Contributions of every size are welcome.
